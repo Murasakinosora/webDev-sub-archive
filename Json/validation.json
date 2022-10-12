@@ -1,0 +1,26 @@
+[
+    {
+        "username": "peter",
+        "password": "password123"
+    },
+    {
+        "username": "new data",
+        "password": "trypass"
+    },
+    {
+        "username": "testguy",
+        "password": "testpass"
+    },
+    {
+        "username": "thirdguy",
+        "password": "fourthpass"
+    },
+    {
+        "username": "last test",
+        "password": "testlast5"
+    },
+    {
+        "username": "finaltest",
+        "password": "finalpass"
+    }
+]
